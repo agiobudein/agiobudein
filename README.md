@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dein Agiobu</h1>
-<h3 align="center">Software Engineer | I teach dummies to code with Java | I turn your ideas into apps</h3>
+<h3 align="center">I'm a Software Engineer with a strong background in building scalable web applications using a variety of technologies. </h3>
+<h3 align="center"> also I teach dummies to code with Java | I turn your ideas into apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agiobudein&label=Profile%20views&color=0e75b6&style=flat" alt="agiobudein" /> </p>
 
